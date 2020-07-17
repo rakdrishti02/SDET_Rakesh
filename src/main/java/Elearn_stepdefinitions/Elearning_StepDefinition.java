@@ -157,6 +157,7 @@ public class Elearning_StepDefinition {
 			System.out.println(lst.get(i).getText());
 		}
 		System.out.println("Checking git..");
+		System.out.println("Checking");
 		
 		
 		/*for (WebElement webElement : lst) {
